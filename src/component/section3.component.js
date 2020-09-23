@@ -117,6 +117,9 @@ export default class Sec3 extends Component {
                                         Available for macOS, Linux and Windows
                                     </div>
                                 </div>
+                                    <div class="confetti confetti-1"></div>
+                                    <div class="confetti confetti-2"></div>
+                                    <div class="confetti confetti-3"></div>
                         </div>
                 </div>
             </div>

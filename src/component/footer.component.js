@@ -42,7 +42,7 @@ export default class Footer extends Component {
                         </div>
                         <hr></hr>
                         <div className="footer-info">
-                            <div className="row d-lg-flex justify-content-lg-between">
+                            <div className="row d-lg-flex justify-content-lg-between foot">
                                 <div className="FOOTER ml-3">
                                     © Frappe. Content licensed under CC-BY-SA 3.0.
                                     <br></br>
